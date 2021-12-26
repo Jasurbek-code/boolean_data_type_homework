@@ -7,6 +7,6 @@ def main(b):
     """
     # Write your code here
 
-    return b >= 0
+    return b > 0   # b musbat son ekanini tekshiradi
 
 print(main(5))
