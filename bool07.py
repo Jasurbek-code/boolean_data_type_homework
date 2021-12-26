@@ -8,7 +8,7 @@ def main(a,b):
         bool
     """
     # Write your code here
-    return a != b
+    return a != b    # a va b teng emaslikni tekshiradi
 
-main = main(2, 1)
-print(main)
+m = main(2, 1)
+print(m)
