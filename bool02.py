@@ -7,7 +7,7 @@ def main(a):
         bool
     """
     # Write your code here
-    return a == 7
+    return a == 7    # a ni 7 ga tekshiradi
 y = main(7)
 print(y)
 
