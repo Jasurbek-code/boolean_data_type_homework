@@ -7,6 +7,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return (a % 2) == 0     # son juft bolsa True qaytaradi
+    return (a % 2) == 0     # son juft bolsa True qaytaradi.
 
 print(main(4))
