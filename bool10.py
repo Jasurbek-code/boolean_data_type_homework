@@ -9,6 +9,7 @@ def main(a):
     # Write your code here
 
     # haqiqiy kvadrat ildiz raqami ekanini tekshiradi
-    return
+    # qoldiq qolmasa ildiz haqiqiy hisoblanadi
+    return (math.sqrt(a) % 1) == 0
 
-print(main(9))
+print(main(16))
