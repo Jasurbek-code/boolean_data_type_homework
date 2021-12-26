@@ -6,6 +6,6 @@ def main(a):
         bool
     """
     # Write your code here
-    return int(a) > 0
+    return int(a) > 0    # natural sonni tekshiradi
 
 print(main(2.2))
